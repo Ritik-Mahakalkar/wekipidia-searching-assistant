@@ -1,7 +1,7 @@
 import pyttsx3
 import wikipedia
-from datetime import datetime
-from datetime import date,time
+from datetime import datetime,date,time
+
 
 
 today=date.today()
